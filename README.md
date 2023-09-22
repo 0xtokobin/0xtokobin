@@ -1,9 +1,9 @@
 
 
 
-<p align="center">
-<h2 height="200px" align="center">Hi there 👋 I am tokobin <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<h2 align="center">知行合一,冲冲冲!</h2>
+<p>
+<h2 height="200px">Hi there 👋 I am tokobin <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2>一个普通前端开发爱好者</h2>
 </p>
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
