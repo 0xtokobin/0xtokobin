@@ -3,7 +3,7 @@
 
 <p>
 <h2 height="200px">Hi there 👋 I am tokobin <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<h2>一个普通前端开发爱好者</h2>
+<h2 height="100px">一个普通前端开发爱好者</h2>
 </p>
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
@@ -24,6 +24,5 @@
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
 </div>
 
