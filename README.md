@@ -1,5 +1,5 @@
 ### Hello World!  <img src="./icons/Hi.gif" width="29px">
-你好,我是bin.
+- 👴 你好,我是bin
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
